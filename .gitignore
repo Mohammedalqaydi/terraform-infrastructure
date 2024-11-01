@@ -1,4 +1,4 @@
-.terrraform 
+.terrraform/
 variables.tf
 terraform.tfstate
 .terraform.lock.hcl
